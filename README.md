@@ -10,3 +10,8 @@ The player to pick the last matchstick/s loses.
 If you lose, don't worry. It's a silly logical game. I know you will figure out the logic in seconds. That's the whole point-realising how silly the game is!
 
 Have fun!
+
+HOW TO PLAY
+Open a terminal
+$ gcc twentyone-matchsticks.c
+$ ./a.out
