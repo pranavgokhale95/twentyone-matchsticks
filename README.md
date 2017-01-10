@@ -12,6 +12,9 @@ If you lose, don't worry. It's a silly logical game. I know you will figure out 
 Have fun!
 
 HOW TO PLAY
+
 Open a terminal
+
 $ gcc twentyone-matchsticks.c
+
 $ ./a.out
